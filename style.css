@@ -220,3 +220,17 @@ footer {
         font-size: 30px;
     }
 }
+.tech {
+    margin: 15px 0;
+}
+
+.tech span {
+    display: inline-block;
+    background-color: #0f172a;
+    color: #38bdf8;
+    padding: 6px 12px;
+    margin: 4px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
