@@ -240,3 +240,6 @@ footer {
     font-size: 14px;
     font-weight: bold;
 }
+html {
+    scroll-behavior: smooth;
+}
